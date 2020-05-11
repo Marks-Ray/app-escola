@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Escola</string>
+    <string name="Nome">Nome</string>
+    <string name="Idade">Idade</string>
+    <string name="Curso">Curso</string>
+    <string name="inserir">Inserir</string>
+</resources>
